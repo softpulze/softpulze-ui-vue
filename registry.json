@@ -11,13 +11,11 @@
       "files": [
         {
           "path": "src/components/softpulze/glow-button/GlowButton.vue",
-          "type": "registry:component",
-          "target": "components/softpulze/glow-button/GlowButton.vue"
+          "type": "registry:component"
         },
         {
           "path": "src/components/softpulze/glow-button/index.ts",
-          "type": "registry:file",
-          "target": "components/softpulze/glow-button/index.ts"
+          "type": "registry:file"
         }
       ]
     }
