@@ -4,8 +4,6 @@
   "type": "registry:component",
   "title": "Glow Button",
   "description": "A custom button with beautiful glow effects and extra variants (soft, elevated, glass, and more)",
-  "dependencies": [],
-  "registryDependencies": [],
   "files": [
     {
       "path": "src/components/ui/glow-button/GlowButton.vue",

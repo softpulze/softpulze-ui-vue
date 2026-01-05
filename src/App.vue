@@ -1,9 +1,9 @@
 <script setup lang="ts">
-import { Button } from '@/components/ui/button'
+import { GlowButton } from "@/components/ui/glow-button";
 </script>
 
 <template>
   <div>
-    <Button>Click me</Button>
+    <GlowButton>Click me</GlowButton>
   </div>
 </template>
