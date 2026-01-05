@@ -1,4 +1,4 @@
-import { GlowButton } from "@/components/ui/glow-button";
+import { GlowButton } from "@/components/softpulze/glow-button";
 
 export default {
   name: "glow-button",

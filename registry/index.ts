@@ -1,1 +1,1 @@
-export * from "./components/ui/glow-button";
+export * from "./components/softpulze/glow-button";
