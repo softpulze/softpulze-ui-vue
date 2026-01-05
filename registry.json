@@ -15,7 +15,7 @@
         },
         {
           "path": "src/components/softpulze/glow-button/index.ts",
-          "type": "registry:file"
+          "type": "registry:component"
         }
       ]
     }
