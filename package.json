@@ -5,9 +5,11 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vue-tsc -b && vite build",
     "preview": "vite preview",
-    "build:registry": "npx shadcn-vue@latest build"
+    "check:typescript": "vue-tsc -b",
+    "build:registry": "npx shadcn-vue@latest build",
+    "build:vite": "vite build",
+    "build": "npm run build:registry && npm run build:vite"
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.1.18",
