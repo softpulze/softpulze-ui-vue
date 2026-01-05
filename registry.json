@@ -1,5 +1,5 @@
 {
-  "$schema": "https://www.shadcn-vue.com/schema/registry.json",
+  "$schema": "https://shadcn-vue.com/schema/registry.json",
   "name": "softpulze",
   "homepage": "https://github.com/softpulze/softpulze-ui-vue",
   "items": [
@@ -13,9 +13,7 @@
           "path": "src/components/ui/glow-button/GlowButton.vue",
           "type": "registry:component"
         }
-      ],
-      "registryDependencies": [],
-      "dependencies": []
+      ]
     }
   ]
 }
