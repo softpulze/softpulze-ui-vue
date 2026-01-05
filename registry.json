@@ -10,8 +10,14 @@
       "description": "A custom button with beautiful glow effects and extra variants (soft, elevated, glass, and more)",
       "files": [
         {
-          "path": "src/components/ui/glow-button/GlowButton.vue",
-          "type": "registry:component"
+          "path": "src/components/softpulze/glow-button/GlowButton.vue",
+          "type": "registry:component",
+          "target": "components/softpulze/glow-button/GlowButton.vue"
+        },
+        {
+          "path": "src/components/softpulze/glow-button/index.ts",
+          "type": "registry:file",
+          "target": "components/softpulze/glow-button/index.ts"
         }
       ]
     }
